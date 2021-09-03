@@ -1,5 +1,5 @@
 # Demographics-Project-Age-and-gender-recognition
-This repo finds out the age and gender of the subjwct in frame through the use of computer vision with deep neural networks in python.
+This repo finds out the age and gender of the subject in frame through the use of computer vision with deep neural networks in python.
 
 - Face Detection Algorithm : Haar Classifer
 - Gender Detection Algorithm: Wide Resnet
